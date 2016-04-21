@@ -1,0 +1,134 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#mineProMainPane {
+	-fx-background-color: #535353;
+	-fx-min-height: 2000.0;
+	-fx-min-width: 2000.0;
+}
+
+#schemeUnit {
+	-fx-background-color: #d6dbe7;
+	-fx-background-radius: 5.0;
+	-fx-border-color: #000000; 
+	-fx-border-width: 1.0;  
+	-fx-border-radius: 5.0;
+	
+	-fx-opacity: 0.9;
+	
+	-fx-pref-height: 100.0;
+	-fx-pref-width: 100.0;
+	-fx-min-height: 100.0;
+	-fx-min-width: 100.0;
+	-fx-max-height: 100.0;
+	-fx-max-width: 100.0;
+}
+
+#destroyCircle {
+	-fx-fill: #1f93ff00; 
+	-fx-stroke: #000000;
+	-fx-stroke-width: 2.0;
+	-fx-stroke-type: INSIDE;
+}
+
+#inputCircle {
+	-fx-fill: #ff0000; 
+	-fx-stroke: #ffffff;
+	-fx-stroke-width: 0.5;
+	-fx-stroke-type: INSIDE;
+}
+
+#outputCircle {
+	-fx-fill: #ff0000; 
+	-fx-stroke: #ffffff;
+	-fx-stroke-width: 0.5;
+	-fx-stroke-type: INSIDE;
+}
+
+#processNameLabel {
+	-fx-text-fill: #000000;
+	-fx-wrap-text: false;
+	-fx-text-alignment: center;
+}
+
+#schemeLine {
+	-fx-stroke-width: 2.0;
+	-fx-stroke: #000000;
+}
+
+
+
+
+
+#fullperson {
+	-fx-background-color: #253441;
+	-fx-background-radius: 5.0;
+	-fx-border-color: #567696; 
+	-fx-border-width: 1.0;  
+	-fx-border-radius: 5.0;
+	
+	-fx-opacity: 0.9;
+	
+	-fx-pref-height: 60.0;
+	-fx-pref-width: 120.0;
+	-fx-min-height: 60.0;
+	-fx-min-width: 120.0;
+	-fx-max-height: 60.0;
+	-fx-max-width: 120.0;
+}
+
+#ancientConnector {
+	-fx-fill: #ffa500;
+	-fx-stroke: #d9d9d9;
+	-fx-stroke-type: INSIDE;
+}
+
+#connectionLine{
+	-fx-stroke-width: 4.0;
+	-fx-stroke: #ffa500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
